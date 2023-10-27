@@ -1,0 +1,4 @@
+- posts
+  - 2019/15/10
+    - hello-world
+    - lo-and-behold
